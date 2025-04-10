@@ -4,13 +4,13 @@ version: 1.0.4
 homepage: https://github.com/taneflit/captcha_solver
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=2.16.2 <3.7.0"
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.4
+  http: ^1.3.0
 
 dev_dependencies:
   flutter_test:
